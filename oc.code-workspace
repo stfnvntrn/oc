@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../ansible/sv/go"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
